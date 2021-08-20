@@ -32,9 +32,10 @@ span{
   color: hsl(277, 64%, 61%);
 }
 p{
+  margin-top: 5px;
   font-size: 13px;
   color: hsla(0, 0%, 100%, 0.75);
-  width: 75%;
+  width: 85%;
   max-width: 375px;
   margin: auto;
   text-align: center;
