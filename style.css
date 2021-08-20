@@ -1,0 +1,56 @@
+.corps{
+  background-color: hsl(233, 47%, 7%);
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  height: 100vh;
+
+}
+.carte{
+  width: 80%;
+  max-width: 500px;
+  margin: auto;
+  margin-top: 5vh;
+}
+img{
+  width: 100%;
+  height: 250px;
+  object-fit:cover;
+  object-position: 100% 10%;
+}
+.corps-carte{
+  background-color:hsl(244, 38%, 16%);
+}
+.titre-carte{
+  font-size: 1.5rem;
+  width: 60%;
+  margin: auto;
+  font-weight: 700;
+  color: hsl(0, 0%, 100%);
+}
+span{
+  color: hsl(277, 64%, 61%);
+}
+p{
+  font-size: 15px;
+  color: hsla(0, 0%, 100%, 0.75);
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+.highlight{
+  color: hsla(0, 0%, 100%, 0.6);
+  margin: 0 auto;
+  width: 30%;
+  text-align: center;
+}
+.numbers{
+  color: hsl(0, 0%, 100%);
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-top: 25px;
+}
+.labels{
+  font-weight: lighter;
+  font-size: .7rem;
+  text-transform: uppercase;
+}
