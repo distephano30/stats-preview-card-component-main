@@ -1,9 +1,7 @@
 .corps{
   background-color: hsl(233, 47%, 7%);
-  margin: 0;
+  margin: auto 0;
   font-family: 'Inter', sans-serif;
-  height: 100vh;
-
 }
 .carte{
   width: 80%;
