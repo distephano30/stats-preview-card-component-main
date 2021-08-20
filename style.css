@@ -69,9 +69,12 @@ h4, h5{
 }
 @media (max-width:1055px) {
   .carte{
-    width: 90%;
+    width: 80%;
     flex-direction: column;
     margin: 35px auto;
+  }
+  .infos{
+    width: 100%;
   }
   img{
     margin: auto;
@@ -81,7 +84,7 @@ h4, h5{
     margin: auto;
     border-radius: 0 0 20px 20px;
   }
-  .infos{width: 100%;}
+  .infos{width: 90%;}
   .titre-carte{
     font-size: 1.6rem;
     text-align: center;
